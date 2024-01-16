@@ -1,2 +1,2 @@
 # testrepo
-Coursera Testrepo IBM
+Coursera Testrepo IBM cursus data science
